@@ -1,0 +1,16 @@
+* {
+    font-family: Fira Code, sans-serif, monospace;
+}
+
+img {
+    width: 10em;
+    height: 10em;
+}
+
+
+
+.Pj1-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
