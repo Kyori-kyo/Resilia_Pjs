@@ -14,3 +14,16 @@ img {
     align-items: center;
     justify-content: space-around;
 }
+
+.Pj1-2 {
+    display: flex;
+    justify-content: safe;
+}
+
+.form1 {
+    margin: 2em;
+}
+
+.input-button {
+    display: block;
+}
